@@ -1,0 +1,11 @@
+retry 1/6 for ./files/rtw88/rtw8703b_fw.bin.20251125: <urlopen error [Errno 101] Network is unreachable>
+retry 1/6 for ./files/rtw88/rtw8723d_fw.bin.20261019: <urlopen error [Errno 101] Network is unreachable>
+retry 2/6 for ./files/rtw88/rtw8723d_fw.bin.20261019: <urlopen error [Errno 101] Network is unreachable>
+retry 1/6 for ./files/rtw88/rtw8812a_fw.bin.20260221: <urlopen error [Errno 101] Network is unreachable>
+retry 1/6 for ./files/rtw88/rtw8812a_fw.bin.20251125: <urlopen error [Errno 101] Network is unreachable>
+retry 1/6 for ./files/rtw88/rtw8821c_fw.bin.20261019: <urlopen error [Errno 101] Network is unreachable>
+retry 1/6 for ./files/rtw88/rtw8821c_fw.bin.20260622: <urlopen error [Errno 101] Network is unreachable>
+retry 1/6 for ./files/rtw88/rtw8822b_fw.bin.20260810: <urlopen error [Errno 101] Network is unreachable>
+retry 2/6 for ./files/rtw88/rtw8822b_fw.bin.20260810: <urlopen error [Errno 101] Network is unreachable>
+retry 1/6 for ./files/rtw88/rtw8822b_fw.bin.20260622: <urlopen error [Errno 101] Network is unreachable>
+retry 1/6 for ./files/rtl_bt/rtl8761b_fw.bin.20260810: <urlopen error [Errno 101] Network is unreachable>
