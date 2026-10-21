@@ -1,0 +1,16 @@
+row 0/527 iwlwifi-100-5.ucode
+row 40/527 iwlwifi-Qu-b0-jf-b0-73.ucode
+row 80/527 iwlwifi-bz-b0-fm-c0-c102.ucode
+row 120/527 iwlwifi-gl-c0-fm-c0-c107.ucode
+row 160/527 iwlwifi-so-a0-gf4-a0-78.ucode
+row 200/527 intel/ibt-0093-0041.ddc
+row 240/527 intel/ibt-1040-1020.sfi
+row 280/527 rtl_bt/rtl8192ee_fw.bin
+row 320/527 rtlwifi/rtl8192cufw.bin
+DROPPED no variants: carl9170-2.fw
+row 360/527 ath10k/QCA6174/hw2.1/firmware-5.bin
+row 400/527 qca/nvm_00130300.bin
+row 440/527 qca/rampatch_00440302.bin
+row 480/527 brcm/brcmfmac43241b0-sdio.bin
+row 520/527 mediatek/mt7662_rom_patch.bin
+manifest files: 526 | pruned: 19378
