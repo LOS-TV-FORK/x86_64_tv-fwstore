@@ -1,0 +1,456 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": "rtw88/rtw8703b_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "5e32bd891c74a0719c871726b74490cf5e1a05cdcefb8fe2414f80fffdeb9f9d",
+          "size": 20290,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8703b_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "5e32bd891c74a0719c871726b74490cf5e1a05cdcefb8fe2414f80fffdeb9f9d",
+          "size": 20290,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8703b_fw.bin.20260519"
+        }
+      ]
+    },
+    {
+      "path": "rtw88/rtw8723d_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "9c64e079815a333a3f7b731be7cc0be65206ebc883891659dc8ff5ed36a5e2f5",
+          "size": 28884,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8723d_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "9c64e079815a333a3f7b731be7cc0be65206ebc883891659dc8ff5ed36a5e2f5",
+          "size": 28884,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8723d_fw.bin.20260519"
+        }
+      ],
+      "drivers": [
+        "rtw_8723du"
+      ]
+    },
+    {
+      "path": "rtw88/rtw8812a_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "abdcca4e8bf76ebfba23d433de310ffefebd0ff9d01990639d4cd9602b32b71a",
+          "size": 27030,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8812a_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "abdcca4e8bf76ebfba23d433de310ffefebd0ff9d01990639d4cd9602b32b71a",
+          "size": 27030,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8812a_fw.bin.20260519"
+        }
+      ],
+      "drivers": [
+        "rtw_8812au"
+      ]
+    },
+    {
+      "path": "rtw88/rtw8814a_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "aa6bf9d62b2d2d8a37254fd6d917ba2839888cdedc21850d4481874cb1d3d7cb",
+          "size": 68320,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8814a_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "aa6bf9d62b2d2d8a37254fd6d917ba2839888cdedc21850d4481874cb1d3d7cb",
+          "size": 68320,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8814a_fw.bin.20260519"
+        }
+      ],
+      "drivers": [
+        "rtw_8814au"
+      ]
+    },
+    {
+      "path": "rtw88/rtw8821c_fw.bin",
+      "devices": [
+        {
+          "type": "usb",
+          "vid": "0bda",
+          "pid": "c811"
+        },
+        {
+          "type": "usb",
+          "vid": "0bda",
+          "pid": "c81a"
+        },
+        {
+          "type": "usb",
+          "vid": "0bda",
+          "pid": "c821"
+        }
+      ],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "2ef409bc418549fcf294061dd0cae1fc22fd9da79b60524950b25de18732f3f0",
+          "size": 139472,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8821c_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "2ef409bc418549fcf294061dd0cae1fc22fd9da79b60524950b25de18732f3f0",
+          "size": 139472,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8821c_fw.bin.20260519"
+        }
+      ],
+      "drivers": [
+        "rtw_8821cu"
+      ]
+    },
+    {
+      "path": "rtw88/rtw8822b_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "a72da690597bfa99d8eb6fc2ab090d18d8ad92ac2befd35db1c9e3662d8d8418",
+          "size": 161240,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8822b_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "a72da690597bfa99d8eb6fc2ab090d18d8ad92ac2befd35db1c9e3662d8d8418",
+          "size": 161240,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8822b_fw.bin.20260519"
+        }
+      ],
+      "drivers": [
+        "rtw_8822bu",
+        "rtw_8822be"
+      ]
+    },
+    {
+      "path": "rtw88/rtw8822c_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "3deecb31210986d98cdbfb000391e08d602a6eee4ffc883969faa2b907ab03ba",
+          "size": 202600,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8822c_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "3deecb31210986d98cdbfb000391e08d602a6eee4ffc883969faa2b907ab03ba",
+          "size": 202600,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw88/rtw8822c_fw.bin.20260519"
+        }
+      ],
+      "drivers": [
+        "rtw_8822cu",
+        "rtw_8822ce"
+      ]
+    },
+    {
+      "path": "rtw89/rtw8851b_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "945c854d7cf69dd97bf1da0181b011787d9b3c5d59c47e8b9dbea4eb4eee170b",
+          "size": 1164440,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw89/rtw8851b_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "945c854d7cf69dd97bf1da0181b011787d9b3c5d59c47e8b9dbea4eb4eee170b",
+          "size": 1164440,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw89/rtw8851b_fw.bin.20260519"
+        }
+      ],
+      "drivers": [
+        "rtw_8851bu"
+      ]
+    },
+    {
+      "path": "rtw89/rtw8852a_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "7eb1fe457f5a704b7a4f05a66c67cfa6af2f1142566b640c8e402445d04b0159",
+          "size": 1428272,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw89/rtw8852a_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "7eb1fe457f5a704b7a4f05a66c67cfa6af2f1142566b640c8e402445d04b0159",
+          "size": 1428272,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw89/rtw8852a_fw.bin.20260519"
+        }
+      ],
+      "drivers": [
+        "rtw_8852au",
+        "rtw_8852ae"
+      ]
+    },
+    {
+      "path": "rtw89/rtw8852b_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "5b9c224ae014e0aeade8701412d820e213c8880e08615b3905dba89659f21baf",
+          "size": 1035232,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw89/rtw8852b_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "5b9c224ae014e0aeade8701412d820e213c8880e08615b3905dba89659f21baf",
+          "size": 1035232,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw89/rtw8852b_fw.bin.20260519"
+        }
+      ],
+      "drivers": [
+        "rtw_8852bu",
+        "rtw_8852be"
+      ]
+    },
+    {
+      "path": "rtw89/rtw8852c_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "e05e704911ec5d6523e2951416290cc2189444d48a0420e637de6acf5bf21228",
+          "size": 1532656,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw89/rtw8852c_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "e05e704911ec5d6523e2951416290cc2189444d48a0420e637de6acf5bf21228",
+          "size": 1532656,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtw89/rtw8852c_fw.bin.20260519"
+        }
+      ],
+      "drivers": [
+        "rtw_8852cu",
+        "rtw_8852ce"
+      ]
+    },
+    {
+      "path": "rtl_bt/rtl8723b_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "c9c8a9f6ebd90b7449a7e4d38ee39952dc7cc47d6c1d054e42cfbb5e4d818853",
+          "size": 45048,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8723b_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "c9c8a9f6ebd90b7449a7e4d38ee39952dc7cc47d6c1d054e42cfbb5e4d818853",
+          "size": 45048,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8723b_fw.bin.20260519"
+        }
+      ]
+    },
+    {
+      "path": "rtl_bt/rtl8761b_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "4c50dac2714bad1a75944d1b770304fa3fbf84cd898942489c7eb2ef497ad53b",
+          "size": 45444,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8761b_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "4c50dac2714bad1a75944d1b770304fa3fbf84cd898942489c7eb2ef497ad53b",
+          "size": 45444,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8761b_fw.bin.20260519"
+        }
+      ]
+    },
+    {
+      "path": "rtl_bt/rtl8761bu_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "1d7a9597349ad89344fa16c1913d3e39e9a12e966e417ca16871bc79bbe59edb",
+          "size": 44484,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8761bu_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "1d7a9597349ad89344fa16c1913d3e39e9a12e966e417ca16871bc79bbe59edb",
+          "size": 44484,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8761bu_fw.bin.20260519"
+        }
+      ]
+    },
+    {
+      "path": "rtl_bt/rtl8821a_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "3ed5077f8f02ff2b06be257691dc72061efac976cd2dc174057833624c820b9d",
+          "size": 37420,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8821a_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "3ed5077f8f02ff2b06be257691dc72061efac976cd2dc174057833624c820b9d",
+          "size": 37420,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8821a_fw.bin.20260519"
+        }
+      ]
+    },
+    {
+      "path": "rtl_bt/rtl8821c_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "dfe7ef772d078ec09490c02190a32fcd40b3eaf3b040049d8930eb80e6d5743c",
+          "size": 54636,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8821c_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "dfe7ef772d078ec09490c02190a32fcd40b3eaf3b040049d8930eb80e6d5743c",
+          "size": 54636,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8821c_fw.bin.20260519"
+        }
+      ]
+    },
+    {
+      "path": "rtl_bt/rtl8822b_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "eecef2c3b2ff03c3a41292a93a25eca6f4ec38eb4a7491a3651b530be89a04fc",
+          "size": 51176,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8822b_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "eecef2c3b2ff03c3a41292a93a25eca6f4ec38eb4a7491a3651b530be89a04fc",
+          "size": 51176,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8822b_fw.bin.20260519"
+        }
+      ]
+    },
+    {
+      "path": "rtl_bt/rtl8822cu_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "bb8b1221b62749baebfa3e60271d6d90b1db5e3a480e3255be82c9fb58fe9577",
+          "size": 37327,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8822cu_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "bb8b1221b62749baebfa3e60271d6d90b1db5e3a480e3255be82c9fb58fe9577",
+          "size": 37327,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8822cu_fw.bin.20260519"
+        }
+      ]
+    },
+    {
+      "path": "rtl_bt/rtl8822cs_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "42db5218c54b0638e1bafdbc7d0986172288e55a9e1c879080d41206bb87dfa2",
+          "size": 63340,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8822cs_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "42db5218c54b0638e1bafdbc7d0986172288e55a9e1c879080d41206bb87dfa2",
+          "size": 63340,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8822cs_fw.bin.20260519"
+        }
+      ]
+    },
+    {
+      "path": "rtl_bt/rtl8852bu_fw.bin",
+      "devices": [],
+      "variants": [
+        {
+          "tag": "20260916",
+          "suffix": "",
+          "sha256": "c2b0d34a4ff8a8ea136993f0dc4ba657522d84231b4094c2a53cda39afc91c57",
+          "size": 129733,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8852bu_fw.bin.20260916"
+        },
+        {
+          "tag": "20260519",
+          "suffix": "",
+          "sha256": "c2b0d34a4ff8a8ea136993f0dc4ba657522d84231b4094c2a53cda39afc91c57",
+          "size": 129733,
+          "url": "https://raw.githubusercontent.com/LOS-TV-FORK/x86_64_tv-fwstore/main/files/rtl_bt/rtl8852bu_fw.bin.20260519"
+        }
+      ]
+    }
+  ]
+}
